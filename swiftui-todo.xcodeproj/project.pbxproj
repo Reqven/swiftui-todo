@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BB09CF0124BA092B00A74EA5 /* TaskDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB09CF0024BA092B00A74EA5 /* TaskDetailsView.swift */; };
 		BBC4F05424B946CF00CA66DE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBC4F05324B946CF00CA66DE /* AppDelegate.swift */; };
 		BBC4F05624B946CF00CA66DE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBC4F05524B946CF00CA66DE /* SceneDelegate.swift */; };
 		BBC4F05A24B946D100CA66DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BBC4F05924B946D100CA66DE /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BB09CF0024BA092B00A74EA5 /* TaskDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskDetailsView.swift; sourceTree = "<group>"; };
 		BBC4F05024B946CF00CA66DE /* swiftui-todo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swiftui-todo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBC4F05324B946CF00CA66DE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BBC4F05524B946CF00CA66DE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				BBC4F06724B9477E00CA66DE /* Task.swift */,
 				BBC4F06924B99E1500CA66DE /* TaskCell.swift */,
 				BBC4F06B24B99F2100CA66DE /* TaskListView.swift */,
+				BB09CF0024BA092B00A74EA5 /* TaskDetailsView.swift */,
 				BBC4F05924B946D100CA66DE /* Assets.xcassets */,
 				BBC4F05E24B946D100CA66DE /* LaunchScreen.storyboard */,
 				BBC4F06124B946D100CA66DE /* Info.plist */,
@@ -154,6 +157,7 @@
 			files = (
 				BBC4F06824B9477E00CA66DE /* Task.swift in Sources */,
 				BBC4F05424B946CF00CA66DE /* AppDelegate.swift in Sources */,
+				BB09CF0124BA092B00A74EA5 /* TaskDetailsView.swift in Sources */,
 				BBC4F05624B946CF00CA66DE /* SceneDelegate.swift in Sources */,
 				BBC4F06A24B99E1500CA66DE /* TaskCell.swift in Sources */,
 				BBC4F06C24B99F2100CA66DE /* TaskListView.swift in Sources */,
